@@ -1,5 +1,5 @@
 # BERTMODEL PREPROCESSING
-Loading the dataset: The dataset can be loaded from a file or obtained from an API, depending on the source.
+Loading the dataset: The dataset is loaded from a online source.
 
 Cleaning the data: This involves removing any irrelevant or noisy data, such as HTML tags, punctuation, and special characters.
 
